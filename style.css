@@ -1,3 +1,7 @@
-h3 {
+h3, #heder {
     color: red;
+}
+
+p {
+    color: cornflowerblue;
 }
